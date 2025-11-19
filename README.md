@@ -24,4 +24,6 @@ cd scripts
 
 ## Contributing
 
-PRs welcome. See `docs/` for guidelines.
+PRs welcome. 
+
+See `docs/` for guidelines.
