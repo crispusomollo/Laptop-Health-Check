@@ -1,14 +1,14 @@
 # 🧰 Laptop Health Toolkit
 
-[![Windows Tested]](assets/badges/windows-tested.svg)  
-[![macOS Tested]](assets/badges/macos-tested.svg)  
-[![Bootable USB]](assets/badges/bootable-usb.svg)
+[![Windows Tested](assets/badges/windows-tested.svg)](https://github.com/crispusomollo)
+[![macOS Tested](assets/badges/macos-tested.svg)](https://github.com/crispusomollo)
+[![Bootable USB](assets/badges/bootable-usb.svg)](https://github.com/crispusomollo)
 
-![PowerShell Version](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)  
-![macOS zsh](https://img.shields.io/badge/macOS-zsh-orange?logo=apple)  
-![Linux Shell](https://img.shields.io/badge/Linux-bash%20%2F%20zsh-green?logo=linux)  
-![smartctl Support](https://img.shields.io/badge/smartctl-supported-lightgrey?logo=smart)  
-![USB Boot](https://img.shields.io/badge/Bootable%20USB-Ventoy-success?logo=usb)
+[![PowerShell Version](assets/badges/powershell-version.svg)](https://github.com/crispusomollo)
+[![macOS zsh](assets/badges/macos-zsh.svg)](https://github.com/crispusomollo)
+[![Linux Shell](assets/badges/linux-shell.svg)](https://github.com/crispusomollo)
+[![smartctl Supported](assets/badges/smartctl-supported.svg)](https://github.com/crispusomollo)
+
 
 A complete cross-platform toolkit for checking laptop health.  
 Includes Windows PowerShell scripts, macOS shell checks, SMART/`smartctl` diagnostics, and a full bootable USB health test environment.
