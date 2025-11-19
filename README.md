@@ -1,8 +1,8 @@
 # 🧰 Laptop Health Toolkit
 
-![Windows Tested](assets/badges/windows-tested.svg)  
-![macOS Tested](assets/badges/macos-tested.svg)  
-![Bootable USB](assets/badges/bootable-usb.svg)
+[![Windows Tested]](assets/badges/windows-tested.svg)  
+[![macOS Tested]](assets/badges/macos-tested.svg)  
+[![Bootable USB]](assets/badges/bootable-usb.svg)
 
 ![PowerShell Version](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)  
 ![macOS zsh](https://img.shields.io/badge/macOS-zsh-orange?logo=apple)  
